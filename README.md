@@ -1,23 +1,7 @@
-# Nextra Docs Template 
+# Among Us on MacOS
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is a guide for playing the PC version of Among Us (any version) on MacOS using [Sikarugir/Kegworks](https://github.com/Sikarugir-App/Sikarugir)
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Compatibility
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+Please note this guide was written with modern machines in mind, specifically Silicion chips. This guide has been proven to run multiple versions so far, spanning from macOS 26.5.1 to macOS 27 Developer Beta, on a M4 chip. I don't expect much differences in the experience from any of the Silicon chips as they all are powerful and Among Us is far from graphically intense, although if you are experiencing problems please submit an issue via the [GitHub Repository](https://github.com/canbegold-yt/among-us-macos), make sure to include at minimum your software version, build number, chip type (example A18 Pro, M4 Max, M2), and other details.
