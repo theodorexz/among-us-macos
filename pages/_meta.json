@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "dependencies": "Dependencies / Requirements",
+  "guide": "Guide",
+  "faq-and-common-issues": "FAQ & Common Issues",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +10,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "mailto:tzwielich@gmail.com?subject=Feedback%20on%20the%20documentation",
     "newWindow": true
   }
 }
