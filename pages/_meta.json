@@ -2,7 +2,7 @@
   "index": "Introduction",
   "dependencies": {
     "title": "Depedencies / Resources",
-    "type": "page",
+    "type": "folder",
     "collapsed": true
   },
   "guide": "Guide",
