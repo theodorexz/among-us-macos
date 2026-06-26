@@ -1,6 +1,6 @@
 {
   "index": "Introduction",
-  "dependencies": "Dependencies",
+  "dependencies.mdx": "Dependencies",
   "guide": "Guide",
   "faq-and-common-issues": "FAQ & Common Issues",
   "about": {
