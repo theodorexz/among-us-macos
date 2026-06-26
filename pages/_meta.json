@@ -1,6 +1,9 @@
 {
   "index": "Introduction",
   "dependencies": "Dependencies / Requirements",
+  "rosetta2": "Rosetta 2",
+  "homebrew": "Homebrew",
+  "Sikarugir": "Sikarugir",
   "guide": "Guide",
   "faq-and-common-issues": "FAQ & Common Issues",
   "about": {
