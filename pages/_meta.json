@@ -2,7 +2,7 @@
   "index": "Introduction",
   "dependencies": {
     "title": "Dependencies & Resources",
-    "type": "page"
+    "type": "folder"
   },
   "guide": "Quick Start Guide",
   "faq-and-common-issues": "FAQ & Common Issues",
