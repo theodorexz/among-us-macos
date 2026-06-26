@@ -1,15 +1,9 @@
 {
   "index": "Introduction",
-  "dependencies": {
-    "title": "Dependencies & Resources",
-    "type": "folder"
-  },
+  "dependencies": "Dependencies & Resources",
   "guide": "Quick Start Guide",
   "faq-and-common-issues": "FAQ & Common Issues",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "about": "About",
   "contact": {
     "title": "Issues ↗",
     "type": "page",
