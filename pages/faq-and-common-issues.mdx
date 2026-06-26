@@ -10,15 +10,25 @@
 
 > ## Peri-Installation Questions
 
-- **Q: Question 3**
-  A: Answer 3
+- **Q: During my installation of Sikarugir it said I had the latest version in the terminal, yet I could not find the Sikarugir Creator app?*
+  A: This is an issue that has caused because of the deletion of the .app file from your Applications folder. To fix this, we first have to remove "hallucation" from Homebrews database that thinks its still installed, therefore skipping the install.
+
+  Remove any leftover files and cache from the previous installation by running the following commands in your terminal together:
+
+  ```zsh
+  brew uninstall --cask --force Sikarugir-App/sikarugir/sikarugir
+  brew cleanup
+  ```
+
+  Lastly, reinstall Sikarugir by following the instructions in the [Sikarugir Installation Guide](./dependencies/sikarugir.mdx)
+  ***If this does not work, you can try rebooting after the commands above and then do the step below.***
 
 - **Q: Question 4**
   A: Answer 4
 > ## Post-Installation Questions
 
 - **Q: Why does my antivirus say Sikarugir is a virus?**
-  A: Sikarugir is not a virus, it is simply a false-positive. As the [Sikarugir repository](https://github.com/Sikarugir-App/Sikarugir) quoted "This started once wine moved to using Mingw-gcc to compile PE binaries."
+  A: Sikarugir is not a virus, it is simply a false-positive. As the [Sikarugir repository](https://github.com/Sikarugir-App/Sikarugir) mentions "This started once wine moved to using Mingw-gcc to compile PE binaries."
 
 - **Q: Question 6**
   A: Answer 6

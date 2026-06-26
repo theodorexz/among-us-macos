@@ -6,12 +6,9 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/theodorexz/among-us-macos',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/theodorexz',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Repository maintained by Theodorexz',
   },
 }
 
