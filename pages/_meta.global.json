@@ -1,16 +1,28 @@
 {
-  "index": "👋 Introduction",
+  "index": {
+    "title": "👋 Introduction",
+    "position": 0,
+    "href": "/introduction"
+  },
   "dependencies": {
     "title": "📦 Dependencies & Resources",
-    "type": "page",
+    "position": 1,
     "items": {
       "rosetta2": "⚙️ Rosetta 2",
       "homebrew": "🍺 Homebrew",
       "Sikarugir": "✨ Sikarugir"
     }
   },
-  "guide": "🚀 Quickstart Guide",
-  "faq-and-common-issues": "❓ FAQ & Common Issues",
+  "guide": {
+    "title": "🚀 Quickstart Guide",
+    "position": 2,
+    "href": "/guide"
+  },
+  "faq-and-common-issues": {
+    "title": "❓ FAQ & Common Issues",
+    "position": 3,
+    "href": "/faq-and-common-issues"
+  },
   "contact": {
     "title": "Issues ↗",
     "type": "page",
