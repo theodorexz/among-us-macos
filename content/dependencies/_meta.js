@@ -1,5 +1,4 @@
 export default {
-  "index": "📦 Dependencies & Resources",
   "rosetta2": "⚙️ Rosetta 2",
   "homebrew": "🍺 Homebrew",
   "sikarugir": "✨ Sikarugir"
